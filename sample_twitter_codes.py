@@ -54,6 +54,10 @@ auto_fav("musicbusiness", count=25)
 
 from twitter_follow_bot import auto_fav
 auto_fav("hypebot", count=25)
+
+from twitter_follow_bot import auto_fav
+auto_fav("electronicmusic", count=25)
+
 '''
 
 '''
